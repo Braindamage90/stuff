@@ -8,7 +8,7 @@ The data consists of 265 sentences about Italian IMU tax litigations.s.
 
 Italian GloVE file taken from https://github.com/MartinoMensio/it_vectors_wiki_spacy
 
-Explainability is a major component of the project. An example of an heatmap built with weights of the attention layer is below .
+Explainability is a major component of the project. An example of an heatmap built with weights of the attention layer is below.
 
 Local Interpretable Model-Agnostic Explanations (LIME) was also explored https://github.com/marcotcr/lime
 
